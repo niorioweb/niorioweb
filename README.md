@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @niorioweb
+- 👀 I used to do architectural designs, building physical spaces. Life took a wild turn, and now I delved into the world of crafting digital spaces.
+- 🌱 I’m currently learning web development and XR development.
+- 💞️ I’m looking to collaborate on web design and development projects.
+- 📫 You can reach me at ling@niorio.com
